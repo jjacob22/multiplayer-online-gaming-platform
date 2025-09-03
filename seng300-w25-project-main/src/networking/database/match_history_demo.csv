@@ -1,0 +1,7 @@
+GAME HISTORY:
+
+format:
+<MatchID>~<GameType>~<Player1ID>~<Player2ID>~<matchOutcome>~<IDofWinningPlayer>~<numberOfMoves>~<matchTime>
+
+example:
+A2f9pUGm417Qt,Chess,123456789,987654321,Winner,123456789,37,280
